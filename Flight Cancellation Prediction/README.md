@@ -16,10 +16,10 @@ This project was completed in December 2021 as a final project for Predictive An
 | UniqueCarrier | Airlines unique code |
 | FlightNum | Flight number |
 | TailNum | Aircraft registration no. |
-"| ActualElapsedTime | Actual elapsed time of the flight in minutes
- (TaxiOut + AirTime + TaxiIn) |"
-"| CRSElapsedTime | System elapsed time of the flight in minutes
- (TaxiOut + AirTime + TaxiIn) |"
+| ActualElapsedTime | Actual elapsed time of the flight in minutes
+ (TaxiOut + AirTime + TaxiIn) |
+| CRSElapsedTime | System elapsed time of the flight in minutes
+ (TaxiOut + AirTime + TaxiIn) |
 | AirTime | The time from the moment an aircraft leaves the surface until it comes into contact with the surface at the next point of landing |
 | ArrDelay | Difference in minutes between scheduled and actual arrival time. Early arrivals show negative numbers, in minutes. |
 | DepDelay | Difference in minutes between scheduled and actual departure time. Early departures show negative numbers, in minutes |
