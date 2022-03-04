@@ -1,4 +1,4 @@
-# Flight Cancellation Prediction
+# The implementation of Genetic Algorithm and Particle Swarm Optimisation on Uncapacitated Single Allocation p-Hub Location Problem (U-SApHLP)
 
 ### Executive Summary
 This project was completed in February 2022 as a final project for Soft Computing course at the University of Edinburgh. In this study, Genetic Algorithm (GA) and Particle Swarm Optimisation (PSO) were implemented to address uncapacitated Single Allocation p-Hub Location Problems (SApHLP). GA and PSO were run in Python on Macbook Apple M1 with 8 GB of RAM. Both algorithms were evaluated based on the average Total Network Cost (TNC), computational time, and optimality gap. The result suggested that both algorithms were effective to obtain nearly optimal solutions with less computational time, with PSO performing better than GA.
